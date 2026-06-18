@@ -1,0 +1,74 @@
+# Example: Sample HR Consulting Business
+# Replace these fields with your own. The goal is one canonical source
+# so every directory listing stays consistent.
+
+nap:
+  name: "Acme HR Consulting"
+  street: "123 Main Street, Suite 100"
+  city: "Seattle"
+  region: "WA"
+  postalCode: "98101"
+  country: "US"
+  phone: "(206) 555-0100"
+  website: "https://www.example.com"
+  email: "hello@example.com"
+  founded: 2024
+  employees: "2-10"
+  hours: "Mon-Fri 9am-5pm PT"
+
+descriptions:
+  long: |
+    Acme HR Consulting is a Seattle-based talent strategy and HR consulting firm
+    serving small professional services firms with 5-25 employees. We work with law
+    firms, accounting firms, consultancies, financial advisory practices, marketing
+    agencies, IT services companies, real estate firms, and architecture &
+    engineering practices across King County, Washington.
+
+    Our services cover the full talent lifecycle: HR systems implementation, talent
+    acquisition strategy, fractional HR leadership, Washington state HR compliance,
+    employee onboarding, and recruiting consulting. Whether you need a compliance
+    audit, a fractional CHRO to build your people operations, or a full recruiting
+    engagement, we deliver enterprise-grade talent support at a fraction of the
+    cost of a full-time HR hire.
+
+    What sets Acme HR Consulting apart is our combination of hands-on recruiting
+    expertise, modern HR technology knowledge, and deep understanding of Washington
+    state employment compliance. We build systems that scale with your firm — so
+    you can focus on serving your clients while we handle the people side.
+  short: |
+    Acme HR Consulting is a Seattle-based talent strategy and HR consulting firm.
+    We help small professional services firms (5-25 employees) build, scale, and
+    manage their teams through HR systems setup, recruiting consulting, fractional
+    HR leadership, and Washington state compliance.
+  tagline: "Seattle talent strategy & HR consulting for small professional services firms"
+
+categories:
+  primary: "Human Resources Consulting"
+  secondary:
+    - "Recruiting"
+    - "Business Consulting"
+    - "Professional Services"
+  tertiary:
+    - "HR Compliance"
+    - "Talent Acquisition"
+    - "Fractional HR"
+
+social:
+  linkedin: "https://linkedin.com/company/acme-hr"
+  twitter: ""
+  facebook: ""
+  instagram: ""
+  youtube: ""
+
+founders:
+  - name: "Jane Doe"
+    title: "Founder"
+    linkedin: "https://linkedin.com/in/janedoe"
+
+services:
+  - "HR Consulting"
+  - "Recruiting"
+  - "HR Compliance"
+  - "Talent Acquisition"
+  - "Onboarding"
+  - "Fractional HR"
