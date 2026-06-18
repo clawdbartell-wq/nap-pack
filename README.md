@@ -4,6 +4,8 @@
 
 One YAML config → submission-ready data for 16+ platforms. NAP consistency checking. Zero API keys. Free. MIT.
 
+**Created by [BTizzy](https://github.com/BTizzy) (Ryan Bartell)** — built using Garry Tan's [gstack](https://github.com/garrytan/gstack) methodology.
+
 ## Why
 
 Submitting your business to 50+ directories is tedious and error-prone. NAP (Name, Address, Phone) inconsistencies tank your local SEO. Most tools that solve this cost $30-100/mo.
